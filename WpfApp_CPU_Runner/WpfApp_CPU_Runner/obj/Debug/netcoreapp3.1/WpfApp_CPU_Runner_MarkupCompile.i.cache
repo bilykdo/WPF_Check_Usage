@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Dmytro\source\repos\WpfApp_CPU_Runner\WpfApp_CPU_Runner\obj\Debug\netcoreapp3.1\
+C:\Users\Dmytro\source\repos\bilykdo\WPF_Check_Usage\WpfApp_CPU_Runner\WpfApp_CPU_Runner\obj\Debug\netcoreapp3.1\
 WpfApp_CPU_Runner
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Dmytro\source\repos\WpfApp_CPU_Runner\WpfApp_CPU_Runner\App.xaml
+C:\Users\Dmytro\source\repos\bilykdo\WPF_Check_Usage\WpfApp_CPU_Runner\WpfApp_CPU_Runner\App.xaml
 1-2129810764
 
 4841199587
 225879842672
 CheckUsage.xaml;
 
-True
+False
 

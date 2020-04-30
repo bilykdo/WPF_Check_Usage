@@ -4,12 +4,14 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp_CPU_Runner"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Name="Grid" HorizontalAlignment="Left" Width="780" Background="LightBlue">
-        <Button Content="Start CPU Check Usage" HorizontalAlignment="Left" Margin="188,0,0,0" VerticalAlignment="Top" Width="168" Click="StartCPUCheck" RenderTransformOrigin="0.511,-7.603" Height="26"/>
+        <Button Content="Start CPU Check Usage" HorizontalAlignment="Left" Margin="188,0,0,0" VerticalAlignment="Top" Width="168" Click="StartCpuCheck" RenderTransformOrigin="0.511,-7.603" Height="26"/>
         <Button Content="Start Memory Check Usage" HorizontalAlignment="Center" Margin="200,0,0,0" VerticalAlignment="Top" Width="190" Click="StartMemoryCheck" RenderTransformOrigin="0.511,-7.603" Height="26"/>
         <StackPanel Name="StackPanel" Margin="0,52,0,10" HorizontalAlignment="Center">
         </StackPanel>
+        <Image Name="Gif" Visibility="Hidden" HorizontalAlignment="Center"  Width="250" />
     </Grid>
 </Window>
